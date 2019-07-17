@@ -10,6 +10,8 @@ Web Side Files :
     conn.php
     sql-queries to be executed
 
+* Find and replace website URL with your URL
+
 Technologies used: Flutter, Dart, PHP, MySQL
 
 IDE: Android Studio 3.4.2
